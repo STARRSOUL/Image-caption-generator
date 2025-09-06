@@ -16,7 +16,7 @@
 *.p
 
 # Other generated files
-*.png
+
 
 # Python cache
 __pycache__/

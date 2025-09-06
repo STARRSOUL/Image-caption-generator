@@ -43,7 +43,7 @@ This project uses a deep learning model to automatically generate captions for i
 
 Due to their large size, the dataset, pre-trained model weights, and other generated files are not stored in this Git repository.
 
-  **Dataset (Flickr8k):**
+1.  **Dataset (Flickr8k):**
     - You need to download the Flickr8k dataset, which contains the images and their corresponding text descriptions.
     - **Download Link:** [**https://drive.google.com/file/d/1u3oqx36XApnAykFDB6EEWUIfd_CxRQQ9/view**](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
