@@ -1,0 +1,23 @@
+# Python virtual environment
+/Include/
+/Lib/
+/Scripts/
+/share/
+/pyvenv.cfg
+
+# Datasets
+/Image_Dataset/
+/Dataset_text/
+
+# Saved models
+/models2/
+
+# Generated pickle files
+*.p
+
+# Other generated files
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
